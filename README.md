@@ -1,3 +1,21 @@
+### Snapshots
+
+## Login Screen
+
+**The authetication is powered via Google auth which is super secure.**
+
+![s1](<https://github.com/XenoCod/Channel/blob/e5194b2c2438df6b3fd2702c60b7c9f3f206b2a8/screenshots/Screenshot%20(389).png>)
+
+## Landing Component
+
+![s2](<https://github.com/XenoCod/Channel/blob/e5194b2c2438df6b3fd2702c60b7c9f3f206b2a8/screenshots/Screenshot%20(390).png>)
+
+## Chat Screen
+
+![s3](<https://github.com/XenoCod/Channel/blob/e5194b2c2438df6b3fd2702c60b7c9f3f206b2a8/screenshots/Screenshot%20(391).png>)
+
+![s4](<https://github.com/XenoCod/Channel/blob/e5194b2c2438df6b3fd2702c60b7c9f3f206b2a8/screenshots/Screenshot%20(392).png>)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
